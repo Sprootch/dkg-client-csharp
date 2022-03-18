@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Dkg_client.Model;
+namespace Dkg.Client.Model;
 
 public class NodeInfo
 {
